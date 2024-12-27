@@ -21,4 +21,5 @@ In this project, I learned a lot about web development fundamentals, including p
 # Contributing
 As this is a personal project, contributions are not open. However, I welcome feedback and suggestions for improvement! Feel free to raise an issue or create a pull request if you have any ideas.
 
+#
 Thank you for checking out my **Spotify Homepage Clone**! This project marks the beginning of my journey into web development, and I’m excited to keep building and improving my skills.
